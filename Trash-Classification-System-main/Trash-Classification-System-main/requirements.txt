@@ -1,5 +1,6 @@
 flask
-opencv-python
+gunicorn
+opencv-python-headless==4.12.0.88
 scikit-image
 scikit-learn
 xgboost
